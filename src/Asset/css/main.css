@@ -1,0 +1,8 @@
+#orderForm {
+    place-items: center;
+    display: grid;
+  
+  }
+  .order-form {
+    max-width: 576px
+  }
